@@ -7,3 +7,4 @@
 4) git log
 5) git checout commit_hash
 6) git checkout master
+7) git branch newBranchName
